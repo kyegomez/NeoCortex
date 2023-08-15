@@ -1,3 +1,5 @@
+[Join Agora](https://discord.gg/qUtxnK2NMf) the community of AI engineers changing the world with their creations.
+
 # NeoCortex: Multi-Modality Foundation Model for Humanoid Robots
 
 NeoCortex is a cutting-edge, multi-modality foundation model engineered for humanoid robots. With the capability to process an array of modalities including images, text, videos, depth, heatmaps, LIDAR, 3D scenes, point clouds, and more, NeoCortex represents the zenith of robotic perception and cognition.
