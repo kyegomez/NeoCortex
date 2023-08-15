@@ -12,17 +12,14 @@ pip install neox
 ## Usage
 ```python
 import torch
-from neox import NeoCortex
+from neox.model import NeoCortex
 
-# Sample usage
-data = {
-    'image': torch.randn(1, 3, 256, 256),
-    'text': "sample text input",
-    'lidar': torch.randn(1, 512, 512)
-}
+#usage
+img = torch.randn(1, 3, 256, 256)
+caption_tokens = torch.randint(0, 4)
 
 model = NeoCortex()
-output = model(data)
+output = model(img, caption_tokens)
 ```
 
 ## Model Architecture
