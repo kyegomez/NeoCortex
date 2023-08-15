@@ -6,13 +6,13 @@ NeoCortex is a cutting-edge, multi-modality foundation model engineered for huma
 To integrate NeoCortex into your development environment:
 
 ```bash
-pip install neocortex
+pip install neox
 ```
 
 ## Usage
 ```python
 import torch
-from neocortex import NeoCortex
+from neox import NeoCortex
 
 # Sample usage
 data = {
