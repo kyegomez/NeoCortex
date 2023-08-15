@@ -57,7 +57,7 @@ class NeoCortex(nn.Module):
                  attn_qk_norm=True, 
                  attn_qk_norm_dim_scale=True, 
                  embedding_provider=AndromedaEmbedding()):
-        super(Neva).__init__()
+        super(NeoCortex).__init__()
 
         self.encoder = ViTransformerWrapper(
             image_size=image_size,
