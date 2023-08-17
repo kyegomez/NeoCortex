@@ -1,4 +1,5 @@
-[Join Agora](https://discord.gg/qUtxnK2NMf) the community of AI engineers changing the world with their creations.
+[![Multi-Modality](agorabanner.png)](https://discord.gg/qUtxnK2NMf)
+
 
 # NeoCortex: Multi-Modality Foundation Model for Humanoid Robots
 
@@ -87,3 +88,8 @@ Training comprises three stages:
 This project is licensed under the MIT License.
 
 For more details, contributions, and support, please refer to the [official repository](https://github.com/kyegomez/NeoCortex).
+
+
+# Todo
+
+[] - 
