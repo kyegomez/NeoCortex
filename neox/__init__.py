@@ -1,1 +1,1 @@
-from neox.model import Neva
+from neox.model import NeoCortex
